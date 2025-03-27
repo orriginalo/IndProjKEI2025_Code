@@ -2,12 +2,12 @@
 #include <windows.h>
 
 void aboutMe() {
-	printf("ИМЯ\n");
-	printf("ФАМИЛИЯ\n");
-	printf("ОТЧЕСТВО\n");
+	printf("ИМЯ !!!!!\n");
+	printf("ФАМИЛИЯ !!!!!\n");
+	printf("ОТЧЕСТВО !!!!!\n");
 	printf("\n");
-	printf("Группа: Пдо-16\n");
-	printf("Дата: 12.03.25\n");
+	printf("Группа: !!!!!\n");
+	printf("Дата: 12.03.25 !!!!!\n");
 	printf("Предмет: Основы программирования\n");
 	printf("Лабораторная работа №8\n");
 }
